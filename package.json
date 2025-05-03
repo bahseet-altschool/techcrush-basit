@@ -1,0 +1,16 @@
+{
+  "name": "basit-calculator",
+  "version": "1.0.0",
+  "description": "a Node.js calculator application demonstrating the use of local (built-in), third-party, and custom modules",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
